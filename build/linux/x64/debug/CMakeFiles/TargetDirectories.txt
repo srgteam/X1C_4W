@@ -1,0 +1,14 @@
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/CMakeFiles/flutter_homescreen.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/CMakeFiles/install.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/jai-srg/Documents/My_flutter_apps/custom_flutter_homescreen/car_homescreen/flutter_homescreen/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
