@@ -17,7 +17,7 @@ class count_provider extends ChangeNotifier{
 
 
       if (line.isNotEmpty && line.startsWith('*E') && line.endsWith('&P') && line!=null ){
-        rpmD = line.substring(2, 7);
+        rpmD = line.substring(2, 8);
         speedD = line.substring(8, 11);
         fuelLevelD = line.substring(12, 13);
         odometerD = line.substring(14, 20);
